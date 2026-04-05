@@ -1,12 +1,13 @@
 <<<<<<< HEAD
+
 # Real-Time Chat Application
 
-COMPANY: CODETECH IT SOLUTIONS
-NAME: SAJDA SABNAM
-INTERN ID: CTIS6245
-DOMAIN: MERN STACK WEB DEVELOPMENT
-DURATION: 8 WEEKS
-MENTOR: NEELA SANTOSH
+**Company:** Codetech IT Solutions  
+**Name:** Sajda Sabnam  
+**Intern ID:** CTIS6245  
+**Domain:** MERN Stack Web Development  
+**Duration:** 8 Weeks  
+**Mentor:** Neela Santosh
 
 This project is a full-stack chat application built with React on the frontend and Node.js with Express and Socket.IO on the backend. It allows multiple users to join, send messages instantly, and see updates in real time. Message history is stored in MongoDB so conversations can persist between sessions. The app is designed as a practical learning project for real-time communication, client-server architecture, and modern JavaScript development workflows.
 
@@ -130,7 +131,8 @@ When a user joins, the client emits a Socket.IO event to the server. The server 
 
 ## Troubleshooting
 
-If messages are not loading, check that MongoDB is running and MONGODB_URI is valid. If the client cannot connect, verify that the backend is running on port 5000 and CLIENT_URL matches the frontend origin. If a port is busy, change the value in server/.env and restart both processes.
-=======
+# If messages are not loading, check that MongoDB is running and MONGODB_URI is valid. If the client cannot connect, verify that the backend is running on port 5000 and CLIENT_URL matches the frontend origin. If a port is busy, change the value in server/.env and restart both processes.
+
 # Real-Time-Chat-Application
->>>>>>> a9c90d7d66045107db003d3b3bc7ebe535dc1cf5
+
+> > > > > > > a9c90d7d66045107db003d3b3bc7ebe535dc1cf5
