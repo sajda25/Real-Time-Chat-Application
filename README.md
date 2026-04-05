@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Chat Application
 
 COMPANY: CODETECH IT SOLUTIONS
@@ -130,3 +131,6 @@ When a user joins, the client emits a Socket.IO event to the server. The server 
 ## Troubleshooting
 
 If messages are not loading, check that MongoDB is running and MONGODB_URI is valid. If the client cannot connect, verify that the backend is running on port 5000 and CLIENT_URL matches the frontend origin. If a port is busy, change the value in server/.env and restart both processes.
+=======
+# Real-Time-Chat-Application
+>>>>>>> a9c90d7d66045107db003d3b3bc7ebe535dc1cf5
